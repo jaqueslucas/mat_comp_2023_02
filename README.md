@@ -7,14 +7,14 @@
     <th>¬p ∧ p</th>
   </tr>
   <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>0</td>
+    <td>F</td>
+    <td>V</td>
+    <td>F</td>
   </tr>
   <tr>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
+    <td>V</td>
+    <td>F</td>
+    <td>F</td>
   </tr>
 </table>
 
@@ -30,39 +30,40 @@
     <th>(p ∨ q) ∧ ¬(p ∧ q)</th>
   </tr>
   <tr>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>1</td>
-    <td>0</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>V</td>
+    <td>F</td>
   </tr>
   <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
+    <td>F</td>
+    <td>V</td>
+    <td>V</td>
+    <td>V</td>
+    <td>F</td>
+    <td>V</td>
+    <td>V</td>
   </tr>
   <tr>
-    <td>1</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
+    <td>V</td>
+    <td>F</td>
+    <td>V</td>
+    <td>V</td>
+    <td>F</td>
+    <td>V</td>
+    <td>V</td>
   </tr>
   <tr>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
+    <td>V</td>
+    <td>V</td>
+    <td>F</td>
+    <td>V</td>
+    <td>V</td>
+    <td>F</td>
+    <td>F</td>
   </tr>
 </table>
+
