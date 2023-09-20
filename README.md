@@ -1,5 +1,6 @@
 # mat_comp_2023_02
-
+<h1>3.6</h1> 
+  <p>A)</p>
 <table border="1">
   <tr>
     <th>p</th>
@@ -18,7 +19,7 @@
   </tr>
 </table>
 
-
+<p>B)</p>
 <table border="1">
   <tr>
     <th>p</th>
