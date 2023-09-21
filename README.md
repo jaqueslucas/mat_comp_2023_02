@@ -68,11 +68,26 @@
   </tr>
 </table>
 
-|  p ⊕ q  |  (p ∨ q) ∧ ¬(p ∧ q)  |
-| ------- | -------------------- |
-|   F     |          F           |
-|   V     |          V           |
-|   V     |          V           |
-|   F     |          F           |
-
+<table border="1">
+  <tr>
+    <th>p ⊕ q</th>
+    <th>(p ∨ q) ∧ ¬(p ∧ q)</th>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>V</td>
+    <td>V</td>
+  </tr>
+  <tr>
+    <td>V</td>
+    <td>V</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+</table>
 
